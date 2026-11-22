@@ -2,7 +2,7 @@
 
 Supplemental material and derived data for the manuscript:
 
-> **Stiffness-silent sliding: a 10-m reservoir landslide without ambient-noise stiffness precursors**
+> **Stiffness-silent sliding: Translational reservoir-landslide slip without ambient-noise precursors**
 
 This repository hosts all processed (derived) time series, station metadata, sensitivity tests, and the full Supplemental Material description used to produce the figures and results of the paper. **Raw waveforms are not included.**
 
